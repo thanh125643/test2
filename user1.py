@@ -1,2 +1,2 @@
-print("Help me")
-print("new day")
+print("Help me wwww")
+print("new name")
